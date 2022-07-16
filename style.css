@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: palevioletred;
+}
+
+#about {
+  background-color: pink;
+}
+#pendidikan {
+  background-color: pink;
+}
+#contact {
+  background-color: #ffe4e1;
+}
+
+section {
+  padding-top: 5rem;
+}
